@@ -8,8 +8,8 @@ Elevado grau de responsabilidade, ótimo relacionamento em equipe, observador, f
 * Ionic FrameWork
 * Versionamento – TortoiseSVN, Git.
 * APIs de mídias sociais (Twitter, Facebook) e API do Google Maps.
-* Banco de Dados – MySql. SQL Server, Postgres
-* Desenvolvimento web usando metodologias ágeis (SCRUM, Kanban).
+* Banco de Dados – MySql, SQL Server, Postgres, noSQL MongoDB
+* Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban).
 
 <!--
 **rodrigopluz/rodrigopluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

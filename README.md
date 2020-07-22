@@ -1,6 +1,4 @@
-E-mail: rodrigopluz@gmail.com
-Skype : rodrigopluz
-Linkedin : https://br.linkedin.com/in/rodrigopluz
+E-mail: rodrigopluz@gmail.com | Skype : rodrigopluz | Linkedin : https://br.linkedin.com/in/rodrigopluz
 
 Elevado grau de responsabilidade, ótimo relacionamento em equipe, observador, facilidade de aprendizado e boa comunicação interpessoal.
 * Linguagem Programação Java

@@ -1,6 +1,8 @@
 E-mail: rodrigopluz@gmail.com | Skype : rodrigopluz | Linkedin : https://br.linkedin.com/in/rodrigopluz
 
 Elevado grau de responsabilidade, ótimo relacionamento em equipe, observador, facilidade de aprendizado e boa comunicação interpessoal.
+
+Experiência nas Tecnologias
 * Linguagem Programação Java
 * Linguagem Programação PHP - FrameWorks - CodeIgniter, Cake, Laravel, Symfony, Doctrine
 * Linguagem Programação JavaScript - jQuery, ReactJs, VueJs, AngularJs, Node.js

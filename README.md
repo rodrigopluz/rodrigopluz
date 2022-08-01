@@ -3,14 +3,12 @@ E-mail: rodrigopluz@gmail.com | Skype : rodrigopluz | Linkedin : https://br.link
 Elevado grau de responsabilidade, ótimo relacionamento em equipe, observador, facilidade de aprendizado e boa comunicação interpessoal.
 
 Conhecimento nas Skill:
-* Linguagem Programação JavaScript - Node.js, TypeScript, Vue.js, React.js, Angular.js, jQuery.
-* Linguagem Programação PHP - FrameWorks - Symfony, CodeIgniter, Laravel, Cake, Doctrine.
-
-* Front-End - HTML5, CSS3
-* Ionic FrameWork
+* Back-End - Node.js, TypeScript, Python, PHP - FrameWorks - Symfony, CodeIgniter, Laravel, Cake.
+* Front-End - HTML5, CSS3, TypeScript, Vue.js, React.js, jQuery
 * Versionamento – TortoiseSVN, Git.
-* APIs de mídias sociais (Twitter, Facebook) e API do Google Maps.
-* Banco de Dados – MySql, SQL Server, Postgres, noSQL MongoDB
+* TDD e BDD - testes unitários e testes integrados.
+* APIs de mídias sociais (Twitter, Facebook) e API do Google Maps, RestFul.
+* Banco de Dados – MySql, SQL Server, Postgres, noSQL MongoDB, ORM Doctrine.
 * Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban).
 * Servidores Clouds – AWS, Google Cloud.
 

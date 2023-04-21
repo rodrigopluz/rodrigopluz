@@ -44,9 +44,16 @@
 ![Qgis](https://img.shields.io/badge/-Qgis-333333?style=flat&logo=qgis)
 
 Conhecimento nas Skill:
+<h3>🔁 &nbsp; Versionamento</h3>
 
-* Versionamento – TortoiseSVN, Git.
-* TDD e BDD - testes unitários e testes integrados.
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
+
+<h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
+
+
 * APIs de mídias sociais (Twitter, Facebook) e API do Google Maps, RestFul.
 * Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban).
 * Servidores Clouds – AWS, Google Cloud.

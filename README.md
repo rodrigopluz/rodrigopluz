@@ -39,7 +39,7 @@
 
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgressql)
+![PostgresSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgressql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Doctrine](https://img.shields.io/badge/-Doctrine-333333?style=flat&logo=doctrine)
 

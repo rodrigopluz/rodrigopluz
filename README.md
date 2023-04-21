@@ -71,7 +71,7 @@
 <h3>🧮 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
 
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws)
-![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=googlecloud)
+![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
 
 <!--
 **rodrigopluz/rodrigopluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

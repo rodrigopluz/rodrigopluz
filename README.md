@@ -17,61 +17,61 @@
 <h3>💻 &nbsp;Front-end:</h3>
 
 <p>![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)</p>
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+<p>![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)</p>
+<p>![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</p>
+<p>![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)</p>
+<p>![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)</p>
+<p>![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)</p>
+<p>![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)</p>
+<p>![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)</p>
+<p>![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)</p>
 
 <h3>⚙️ &nbsp;Back-end:</h3>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![CakePHP](https://img.shields.io/badge/-CakePHP-333333?style=flat&logo=cakephp)
+<p>![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)</p>
+<p>![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</p>
+<p>![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)</p>
+<p>![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)</p>
+<p>![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)</p>
+<p>![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)</p>
+<p>![CakePHP](https://img.shields.io/badge/-CakePHP-333333?style=flat&logo=cakephp)</p>
 
 <h3>🗃️ &nbsp;Banco de Dados:</h3>
 
-![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=EE3124)
-![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Qgis](https://img.shields.io/badge/-Qgis-333333?style=flat&logo=qgis)
+<p>![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=EE3124)</p>
+<p>![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)</p>
+<p>![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)</p>
+<p>![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)</p>
+<p>![Qgis](https://img.shields.io/badge/-Qgis-333333?style=flat&logo=qgis)</p>
 
 <h3>🔁 &nbsp;Versionamento</h3>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=2D79C7)
+<p>![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)</p>
+<p>![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)</p>
+<p>![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=2D79C7)</p>
 
 <h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
 
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
+<p>![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)</p>
+<p>![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)</p>
 
 <h3>🗺 &nbsp;APIs de Redes Sociais e APIs do Google - RestFul</h3>
 
-![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)
-![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)
-![Google Maps](https://img.shields.io/badge/-Google%20Maps-333333?style=flat&logo=googlemaps)
-![Google Drive](https://img.shields.io/badge/-Google%20Drive-333333?style=flat&logo=googledrive)
+<p>![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)</p>
+<p>![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)</p>
+<p>![Google Maps](https://img.shields.io/badge/-Google%20Maps-333333?style=flat&logo=googlemaps)</p>
+<p>![Google Drive](https://img.shields.io/badge/-Google%20Drive-333333?style=flat&logo=googledrive)</p>
 
 
 <h3>🧮 &nbsp;Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban)</h3>
 
-![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+<p>![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)</p>
+<p>![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)</p>
 
 <h3>🧮 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
 
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws&logoColor=2D79C7)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+<p>![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws&logoColor=2D79C7)</p>
+<p>![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)</p>
 
 <!--
 **rodrigopluz/rodrigopluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

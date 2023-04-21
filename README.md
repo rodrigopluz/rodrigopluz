@@ -48,7 +48,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=2D79C7)
 
 <h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
 
@@ -59,8 +59,8 @@
 
 ![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)
 ![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)
-![GoogleMaps](https://img.shields.io/badge/-GoogleMaps-333333?style=flat&logo=googlemaps)
-![GoogleDrive](https://img.shields.io/badge/-GoogleDrive-333333?style=flat&logo=googledrive)
+![Google Maps](https://img.shields.io/badge/-Google%20Maps-333333?style=flat&logo=googlemaps)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-333333?style=flat&logo=googledrive)
 
 
 <h3>🧮 &nbsp;Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban)</h3>
@@ -70,8 +70,8 @@
 
 <h3>🧮 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
 
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws)
-![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazonaws&logoColor=2D79C7)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
 
 <!--
 **rodrigopluz/rodrigopluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

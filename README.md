@@ -50,7 +50,8 @@ Conhecimento nas Skill:
 ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 
 <h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
 
 

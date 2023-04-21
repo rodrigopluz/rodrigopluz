@@ -35,7 +35,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![CakePHP](https://img.shields.io/badge/-CakePHP-333333?style=flat&logo=cakephp)
 
-<h3>⚙️ &nbsp;Banco de Dados:</h3>
+<h3>🗃️ &nbsp;Banco de Dados:</h3>
 
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=EE3124)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)

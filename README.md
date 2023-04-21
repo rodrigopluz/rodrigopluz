@@ -41,7 +41,7 @@
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Doctrine](https://img.shields.io/badge/-Doctrine-333333?style=flat&logo=doctrine-plain)
+![Doctrine](https://img.shields.io/badge/-Doctrine-333333?style=flat&logo=doctrine-original)
 
 Conhecimento nas Skill:
 

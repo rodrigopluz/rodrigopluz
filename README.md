@@ -15,6 +15,7 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <h3>💻 &nbsp;Front-end:</h3>
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,6 +27,7 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 
 <h3>⚙️ &nbsp;Back-end:</h3>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -35,6 +37,7 @@
 ![CakePHP](https://img.shields.io/badge/-CakePHP-333333?style=flat&logo=cakephp)
 
 <h3>🗃️ &nbsp;Banco de Dados:</h3>
+
 ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=EE3124)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -42,15 +45,18 @@
 ![Qgis](https://img.shields.io/badge/-Qgis-333333?style=flat&logo=qgis)
 
 <h3>🔁 &nbsp;Versionamento</h3>
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
 <h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
+
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
 
 <h3>🗺 &nbsp;APIs de Redes Sociais e APIs do Google - RestFul</h3>
+
 ![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)
 ![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)
 ![GoogleMaps](https://img.shields.io/badge/-GoogleMaps-333333?style=flat&logo=googlemaps)
@@ -58,10 +64,12 @@
 
 
 <h3>🧮 &nbsp;Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban)</h3>
+
 ![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 <h3>🧮 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
+
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=googlecloud)
 

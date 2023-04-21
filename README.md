@@ -37,7 +37,7 @@
 
 <h3>⚙️ &nbsp;Banco de Dados:</h3>
 
-![MySql](https://img.shields.io/badge/-MySql-1572B6?style=flat&logo=mysql&logoColor=1572B6)
+![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)

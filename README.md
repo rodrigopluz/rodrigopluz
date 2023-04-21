@@ -30,9 +30,13 @@
 <p>
   <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" width="99" />
   <img src="https://img.shields.io/badge/-Nest.js-333?style=flat&logo=nestjs&logoColor=E0234E" width="95" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" width="95" />
   <img src="https://img.shields.io/badge/-Django-333?style=flat&logo=django" width="95" />
   <img src="https://img.shields.io/badge/-Flask-333?style=flat&logo=flask" width="80" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" width="70" />
   <img src="https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony" width="110" />
   <img src="https://img.shields.io/badge/-CodeIgniter-333?style=flat&logo=codeigniter" width="131" />

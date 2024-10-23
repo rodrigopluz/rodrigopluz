@@ -71,7 +71,6 @@
 <h3>🗺 &nbsp;APIs de Redes Sociais e APIs do Google - RestFul</h3>
 <p>
   <img src="https://img.shields.io/badge/-Facebook-333?style=flat&logo=facebook" width="115" />
-  <img src="https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter" width="97" />
   <img src="https://img.shields.io/badge/-Google%20Maps-333?style=flat&logo=googlemaps" width="140" />
   <img src="https://img.shields.io/badge/-Google%20Drive-333?style=flat&logo=googledrive" width="140" />
 </p>
@@ -85,7 +84,6 @@
 
 <h3>🖥 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
 <p>
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-333?style=flat&logo=amazonaws" width="145" />
   <img src="https://img.shields.io/badge/-Amazon%20S3-333?style=flat&logo=amazons3" width="128" />
   <img src="https://img.shields.io/badge/-Amazon%20RDS-333?style=flat&logo=amazonrds" width="140" />
   <img src="https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud" width="143" />

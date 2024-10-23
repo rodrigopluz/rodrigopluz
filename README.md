@@ -20,16 +20,19 @@
   <img src="https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6" width="70" />
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" width="115" />
   <img src="https://img.shields.io/badge/-JQuery-333?style=flat&logo=jquery" width="90" />
-  <img src="https://img.shields.io/badge/-Vue-333?style=flat&logo=vue.js" width="67" />
   <img src="https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript&logoColor=2D79C7" width="120" />
   <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" width="80" />
   <img src="https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react" width="131" />
+  <img src="https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js" width="95" />
+  <img src="https://img.shields.io/badge/-Vue-333?style=flat&logo=vue.js" width="67" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-333?style=flat&logo=nuxt.js" width="95" />
 </p>
 
 <h3>⚙️ &nbsp;Back-end:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" width="99" />
   <img src="https://img.shields.io/badge/-Nest.js-333?style=flat&logo=nestjs&logoColor=E0234E" width="95" />
+  <img src="https://img.shields.io/badge/-AdonisJS-333?style=flat&logo=adonisjs" width="110" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" width="95" />
@@ -57,6 +60,8 @@
 <h3>🔁 &nbsp;Versionamento</h3>
 <p>
   <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" width="60" />
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" width="90" />
+  <img src="https://img.shields.io/badge/-GitLab-333?style=flat&logo=gitlab" width="90" />
   <img src="https://img.shields.io/badge/-GitKraken-333?style=flat&logo=gitkraken" width="116" />
   <img src="https://img.shields.io/badge/-Bitbucket-333?style=flat&logo=bitbucket&logoColor=2D79C7" width="110" />
 </p>
@@ -64,6 +69,9 @@
 <h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
 <p>
   <img src="https://img.shields.io/badge/-Jest-333?style=flat&logo=jest&logoColor=E535AB" width="70" />
+  <img src="https://img.shields.io/badge/-Vitest-333?style=flat&logo=vitest" width="85" />
+  <img src="https://img.shields.io/badge/-Testing%20Library-333?style=flat&logo=testinglibrary" width="160" />
+  <img src="https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress" width="100" />
   <img src="https://img.shields.io/badge/-Cucumber-333?style=flat&logo=cucumber" width="120" />
 </p>
 
@@ -85,6 +93,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Amazon%20S3-333?style=flat&logo=amazons3" width="128" />
   <img src="https://img.shields.io/badge/-Amazon%20RDS-333?style=flat&logo=amazonrds" width="140" />
+  <img src="https://img.shields.io/badge/-Amazon%20Route%2053-333?style=flat&logo=amazonroute53" width="175" />
   <img src="https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud" width="143" />
 </p>
 

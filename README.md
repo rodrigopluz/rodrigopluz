@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb" width="105" />
   <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=4169E1" width="125" />
   <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" width="112" />
+  <img src="https://img.shields.io/badge/-DynamoDB-333?style=flat&logo=amazondynamodb" width="118" />
   <img src="https://img.shields.io/badge/-Qgis-333?style=flat&logo=qgis" width="74" />
 </p>
 

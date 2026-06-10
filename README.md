@@ -17,7 +17,7 @@
 <h3>💻 &nbsp;Front-end:</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-JQuery-333?style=flat&logo=jquery" />
   <img src="https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript&logoColor=2D79C7" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb" />
   <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-DynamoDB-333?style=flat&logo=amazondynamodb" />
+  <img src="https://img.shields.io/badge/-Cassandra-333?style=flat&logo=apachecassandra" />
   <img src="https://img.shields.io/badge/-Qgis-333?style=flat&logo=qgis" />
   
 </p>
@@ -89,6 +89,7 @@
 <p>
   <img src="https://img.shields.io/badge/-ClickUp-333?style=flat&logo=clickup" />
   <img src="https://img.shields.io/badge/-Jira-333?style=flat&logo=jira&logoColor=2D79C7" />
+  <img src="https://img.shields.io/badge/-Azure%20DevOps-333?style=flat&logo=azure" />
 </p>
 
 <h3>🖥 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>

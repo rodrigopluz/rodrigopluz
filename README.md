@@ -1,4 +1,13 @@
-<h1>👋 &nbsp;Olá, eu sou o Rodrigo, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Rodrigo</h1>
+
+### Desenvolvedor FullStack
+
+Desenvolvedor Full Stack com experiência em desenvolvimento Web e Mobile, atuando em aplicações escaláveis utilizando React, React Native, Next.js, Node.js, NestJS, PHP, Laravel e AWS.
+
+Tenho forte atuação em arquitetura de software, integrações RESTful, autenticação OAuth/OpenID, bancos de dados relacionais e NoSQL, além de metodologias ágeis e práticas de qualidade de software.
+
+
+## 📫 Contato
 <p align="center">
   <a href="mailto:rodrigopluz@gmail.com">
     <img src="https://img.shields.io/badge/-rodrigopluz@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -8,13 +17,9 @@
   </a>  
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+## 🛠 Tech Stack
 
-- 👨🏻‍💻 &nbsp; Elevado grau de responsabilidade, ótimo relacionamento em equipe, observador, facilidade de aprendizado e boa comunicação interpessoal.
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
-
-<h3>💻 &nbsp;Front-end:</h3>
+### 💻 Front-end:
 <p>
   <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss&logoColor=1572B6" />
@@ -28,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Nuxt.js-333?style=flat&logo=nuxt" />
 </p>
 
-<h3>⚙️ &nbsp;Back-end:</h3>
+### ⚙️ Back-end:
 <p>
   <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/-Nest.js-333?style=flat&logo=nestjs&logoColor=E0234E" />
@@ -47,8 +52,7 @@
   <img src="https://img.shields.io/badge/-CakePHP-333?style=flat&logo=cakephp" />
 </p>
 
-
-<h3>🗃️ &nbsp;Banco de Dados:</h3>
+### 🗃️ Banco de Dados:
 <p>
   <img src="https://img.shields.io/badge/-MySql-333?style=flat&logo=mysql&logoColor=FFE01B" />
   <img src="https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb" />
@@ -56,10 +60,9 @@
   <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Cassandra-333?style=flat&logo=apachecassandra" />
   <img src="https://img.shields.io/badge/-Qgis-333?style=flat&logo=qgis" />
-  
 </p>
 
-<h3>🔁 &nbsp;Versionamento</h3>
+### 🔁 Versionamento
 <p>
   <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
@@ -68,7 +71,7 @@
   <img src="https://img.shields.io/badge/-Bitbucket-333?style=flat&logo=bitbucket&logoColor=2D79C7" />
 </p>
 
-<h3>🔂 &nbsp; Testes unitários e Testes integrados</h3>
+### 🔂 Testes unitários e Testes integrados
 <p>
   <img src="https://img.shields.io/badge/-Jest-333?style=flat&logo=jest&logoColor=E535AB" />
   <img src="https://img.shields.io/badge/-Vitest-333?style=flat&logo=vitest" />
@@ -77,22 +80,21 @@
   <img src="https://img.shields.io/badge/-Cucumber-333?style=flat&logo=cucumber" />
 </p>
 
-<h3>🗺 &nbsp;APIs de Redes Sociais e APIs do Google - RestFul</h3>
+### 🗺 APIs de Redes Sociais e APIs do Google - RestFul
 <p>
   <img src="https://img.shields.io/badge/-Facebook-333?style=flat&logo=facebook" />
   <img src="https://img.shields.io/badge/-Google%20Maps-333?style=flat&logo=googlemaps" />
   <img src="https://img.shields.io/badge/-Google%20Drive-333?style=flat&logo=googledrive" />
 </p>
 
-
-<h3>🧮 &nbsp;Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban)</h3>
+### 🧮 Desenvolvimento Web usando metodologias ágeis (SCRUM, Kanban)
 <p>
   <img src="https://img.shields.io/badge/-ClickUp-333?style=flat&logo=clickup" />
   <img src="https://img.shields.io/badge/-Jira-333?style=flat&logo=jira&logoColor=2D79C7" />
   <img src="https://img.shields.io/badge/-Azure%20DevOps-333?style=flat&logo=azure" />
 </p>
 
-<h3>🖥 &nbsp;Servidores Clouds – AWS, Google Cloud</h3>
+### 🖥 Servidores Clouds – AWS, Google Cloud
 <p>
   <img src="https://img.shields.io/badge/-Amazon%20S3-333?style=flat&logo=amazons3" />
   <img src="https://img.shields.io/badge/-Amazon%20RDS-333?style=flat&logo=amazonrds" />
